@@ -56,3 +56,10 @@ b {
   float: right;
   margin-right: 1.5cm;
 }
+@madia (min-width:400px) {
+  .main1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+  }
+}
