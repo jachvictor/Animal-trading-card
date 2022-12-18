@@ -4,26 +4,26 @@ body {
   justify-content: center;
   align-items: center;
 }
-.main1 {
+.card {
   height: 40.5cm;
   width: 20cm;
   border-radius: 3cm;
   background-color: orange;
 }
-.img1 {
+.image1 {
   border-radius: 2cm;
   height: 20cm;
   width: 19cm;
   margin-left: 0.5cm;
 }
-.p1 {
+.paragraph1 {
   margin-left: 0.5cm;
 }
-.p2 {
+.paragraph2 {
   margin-left: 0.5cm;
 }
 
-.h1 {
+.header1 {
   font-size: 2cm;
   margin-left: 5cm;
 }
@@ -36,7 +36,7 @@ body {
   background-color: white;
   color: black;
 }
-.img2 {
+.image2 {
   height: 0.2cm;
   width: 17cm;
   margin-left: 0.7cm;
