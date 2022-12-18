@@ -9,6 +9,8 @@ body {
   width: 20cm;
   border-radius: 3cm;
   background-color: orange;
+  margin-top: 1.5cm;
+  margin-bottom: 1cm;
 }
 .image1 {
   border-radius: 2cm;
