@@ -19,7 +19,6 @@ body {
   margin-left: 0.5cm;
 }
 .p1 {
-  /* margin-top: 3cm; */
   margin-left: 0.5cm;
 }
 .p2 {
@@ -35,7 +34,6 @@ body {
   border-radius: 2cm;
   height: 13cm;
   width: 19cm;
-  /* float: right; */
   margin-left: 0.5cm;
   background-color: white;
   color: black;
